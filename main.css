@@ -1,0 +1,25 @@
+body{
+    background-color: #25274d;
+    padding-top: 70px;
+}
+.col-sm-3{
+    background-color: #FF9B00;
+}
+p{
+    font-size: 22px;
+}
+.col-sm-9{
+    background-color: white;
+}
+.container{
+    border-radius: 20px;
+}
+.contact-us{
+    margin: 50px 18px;
+}
+.contact-form{
+    margin: 20px 0px 25px 12px;
+}
+img{
+    padding: 22px 0px;
+}
